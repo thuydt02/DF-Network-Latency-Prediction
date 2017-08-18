@@ -1,0 +1,5 @@
+d = 2, with height PlanetLabData_1 + W80N490
+Root Mean Square Error of TRAIN: 0.02562232568251679
+Mean Absolute Error of TRAIN: 0.013600557486424514
+Root Mean Square Error of TEST: 0.025625154258066156
+Mean Absolute Error of TEST: 0.013432112733583749

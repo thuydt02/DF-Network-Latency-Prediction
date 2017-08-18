@@ -1,0 +1,13 @@
+{
+  "name": "vivaldi-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Natsu Kagami",
+  "license": "MIT",
+  "dependencies": {
+    "vivaldi-coordinates": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}

@@ -1,0 +1,5 @@
+d = 2, with height. INPUT files: ./PlanetLab/PlanetLabData_1 + ./PlanetLab/W80N490
+Root Mean Square Error of TRAIN: 0.025534906200813584
+Mean Absolute Error of TRAIN: 0.01360575887398437
+Root Mean Square Error of TEST: 0.025687950045644753
+Mean Absolute Error of TEST: 0.013492677399048521
